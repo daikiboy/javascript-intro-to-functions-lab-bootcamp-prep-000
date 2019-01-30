@@ -28,6 +28,6 @@ logWhisper("HELLO!")
      return "I can't hear you!"} if (
        string == string.toUpperCase) {
          return "YES INDEED!"} if (string == i)
-  {return "I love you, too"}
+  {return "I love you, too."}
  }
   

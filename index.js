@@ -23,11 +23,11 @@ function logWhisper(string) {
 logWhisper("HELLO!")
 
  function sayHiToGrandma(string) {
+   var i = "I love you, Grandma."
    if (string == string.toLowerCase) {
-     return "I can't hear you!"} if {
+     return "I can't hear you!"} if (
        (string == string.toUpperCase) {
-         return "YES INDEED!"}
-       }
-     }
+         return "YES INDEED!"} if (string == i)
+  {return "I love you, too"}
  }
   

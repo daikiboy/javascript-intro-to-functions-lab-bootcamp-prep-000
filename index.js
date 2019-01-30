@@ -22,5 +22,5 @@ function logWhisper(string) {
 
 logWhisper("HELLO!")
 
-function sayHiToGrandma(string) 
+ 
   
